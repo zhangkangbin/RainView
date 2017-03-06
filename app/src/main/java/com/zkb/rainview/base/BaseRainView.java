@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * Created by zhangkangbin on 2017/3/5.
  */
-
 public  abstract class BaseRainView extends  View{
     private Thread mThread;
     private  ViewOnClick mViewOnClick;
